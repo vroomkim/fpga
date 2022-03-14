@@ -1,0 +1,13 @@
+!L1/benchmarks
+*.swp
+*.swo
+*.out
+g++
+clang++
+Makefile.*
+*.log
+*.exe
+build*/
+**/_x*/
+**/_b*/
+**/.ip*/
